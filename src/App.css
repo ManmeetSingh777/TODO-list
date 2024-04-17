@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  background-color: #1eb796;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.todo-list {
+  list-style-type: none;
+}
